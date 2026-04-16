@@ -11,5 +11,9 @@
         alt="ORCID iD icon"/>
       https://orcid.org/0009-0006-4515-9826
   </a>
-  # 一只会写代码的小雪狐qwq
+
+![Banner](https://github.com/Morfonica-Fox/Morfonica-Fox/raw/main/icon.png)
+我怎么只会这么点skill:( 看着skillicon上那么多图标只能用上vscode和python
+我要学rust go(PyO3想用)
+# 一只会写代码的小雪狐qwq(a! 只会写py)
 
